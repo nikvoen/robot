@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/robot/static/css/main.84f6ded1.css",
+    "main.css": "/robot/static/css/main.017f023c.css",
     "main.js": "/robot/static/js/main.226623a0.js",
     "static/js/787.96f761c2.chunk.js": "/robot/static/js/787.96f761c2.chunk.js",
     "static/media/event1.png": "/robot/static/media/event1.33df17c1e431576e621b.png",
@@ -15,12 +15,12 @@
     "static/media/arrow.svg": "/robot/static/media/arrow.f483857fe1795cd46f40734ae32baf07.svg",
     "static/media/menu.svg": "/robot/static/media/menu.dc4d680e9e9b255d1d0249998ccd063d.svg",
     "static/media/close.svg": "/robot/static/media/close.a6657e59f39571ac35f7c775828bc227.svg",
-    "main.84f6ded1.css.map": "/robot/static/css/main.84f6ded1.css.map",
+    "main.017f023c.css.map": "/robot/static/css/main.017f023c.css.map",
     "main.226623a0.js.map": "/robot/static/js/main.226623a0.js.map",
     "787.96f761c2.chunk.js.map": "/robot/static/js/787.96f761c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84f6ded1.css",
+    "static/css/main.017f023c.css",
     "static/js/main.226623a0.js"
   ]
 }
